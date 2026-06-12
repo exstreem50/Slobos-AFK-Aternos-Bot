@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "exdtsreme.playserver.pro",
+    "ip": "extreme.playserver.pro",
     "port": 34448,
     "version": "1.21",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "joshuabagayy"
     },
     "anti-afk": {
       "enabled": true,
