@@ -10,7 +10,7 @@ function setupLeaveRejoin(bot, createBot) {
     let reconnectTimer = null
 
     // State
-    let stopped = false
+    let stopped = true
     let reconnectAttempts = 0
     let lastLogAt = 0
 
