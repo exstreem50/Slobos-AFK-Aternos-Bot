@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "extremayserver.pro",
-    "port": 34448,
+    "ip": "blinkstorymlbb.aternos.me:39649",
+    "port": 39649,
     "version": "1.21",
     "try-creative": false
   },
