@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "extremesmp.seedloaf.gg",
-    "port": 19132,
+    "port": ,
     "version": "1.21",
     "try-creative": false
   },
