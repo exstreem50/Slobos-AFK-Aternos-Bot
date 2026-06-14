@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blinkstorymlbb.aternos.me",
-    "port": 39649,
+    "ip": "extremesmp.seedloaf.gg",
+    "port": 19132,
     "version": "1.21",
     "try-creative": false
   },
